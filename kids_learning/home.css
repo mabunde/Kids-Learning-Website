@@ -106,9 +106,17 @@ h3 {
     margin-left: 100px;
     background-color: #D61E13;
     margin-top: 20px;
-    height: 40px;
+    height: 45px;
 }
 
 .submit p {
     color: #FFFFFF;
+    font-family: poppins;
+    font-size: 15px;
+}
+
+.levels {
+    text-align: center;
+    font-family: poppins;
+    font-weight: 800;
 }
