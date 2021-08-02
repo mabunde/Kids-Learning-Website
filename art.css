@@ -10,6 +10,7 @@ html{
 }
 .head {
     text-align: center;
+    font-size: large;
 
 }
 nav>ul {
@@ -18,6 +19,10 @@ nav>ul {
     align-items: center;
     justify-content: space-evenly;
   
+}
+#header{
+    text-align: center;
+    font-size: large;
 }
 .arts{
     display: flex;
