@@ -6,7 +6,7 @@ html {
 }
 
 .main {
-    width: 90%;
+    width: 80%;
     height: 100%;
     background-color: #C4C4C4;
     margin: auto;
@@ -16,7 +16,7 @@ html {
 .navbar li {
     overflow: hidden;
     display: inline;
-    padding: 55px;
+    padding: 40px;
     font-size: 20px;
 }
 
@@ -38,11 +38,12 @@ button a {
 }
 
 .logo {
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     margin-top: 2px;
     margin-left: 5px;
     border-radius: 10px;
+    color: #C4C4C4;
 }
 
 .login li {
