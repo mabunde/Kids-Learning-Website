@@ -1,4 +1,14 @@
 *{
     background-color: #C4C4C4;
-    border-radius: 90px;;
 }
+.display{
+    display: flex;
+    float: right;
+    text-indent: 40px;
+}
+.log{
+}
+.log2{
+    
+}
+   
