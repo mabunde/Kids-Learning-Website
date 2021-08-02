@@ -51,14 +51,27 @@ h1{
     li{
         display: inline;
         padding: 55px;
-        color: black;
+        color:#D29D14;
         box-sizing: border-box;
-        margin: 30px 10px;
+        margin: 30px 5px;
+        font-size: 20px;
       
     }
     .bar a{
-        color: black;
+        color: #D29D14;
      
         text-decoration: none;
 
+    }
+    .button{
+        background-color: #073706;
+        border-radius: 30px;
+        width: 68px;
+        height: 30px;
+    }
+    .butt{
+        width: 78px;
+        background-color: #073706;
+        border-radius: 30px;
+        height: 30px;
     }
