@@ -4,3 +4,30 @@ html{
     margin: 0;
     padding: 0;
 }
+.main{
+width: 90%;
+height: 100%;
+background-color: white;
+margin: auto;
+border-radius: 10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: ;
+}
+li {
+    display: inline;
+    border-right: 1px solid #bbb;
+
+}
+.logo {
+    width: 100px;
+    height: 100px;
+}
+.header{
+    text-align: center;
+}
+
