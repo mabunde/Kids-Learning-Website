@@ -73,3 +73,41 @@ button a {
     flex-direction: row;
     justify-content: space-between;
 }
+
+.container {
+    background: white;
+    box-sizing: border-box;
+    border: 1px solid white;
+    margin: auto 100px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 300px;
+    margin: 10px;
+    font-family: poppins;
+    font-weight: 500;
+    color: #468E0C;
+}
+
+.containerMain {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+h3 {
+    color: #2A1996;
+}
+
+.submit {
+    width: 80%;
+    margin: auto;
+    margin-left: 100px;
+    background-color: #D61E13;
+    margin-top: 20px;
+    height: 40px;
+}
+
+.submit p {
+    color: #FFFFFF;
+}
