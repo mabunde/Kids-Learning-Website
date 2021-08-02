@@ -1,5 +1,6 @@
 html{
     background-color: #000000;
+    
 }
 .main{
     width: 80%;
@@ -75,9 +76,22 @@ h1{
         border-radius: 30px;
         height: 30px;
     }
+    .catch{
+        background-color: #131212;
+    }
     .play{
+       
         margin-top: 100px;
+        margin-left: 20px;
+        border-radius: 50px;
+        background-color: #131212;
+        height: 70px;
+        width: 1000px;
         text-align: center;
         color: #18C7A7;
-        font-size: 90px;
-    }
+        font-size: 60px;
+}
+
+.play{
+    margin-top: 60px;
+}
