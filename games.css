@@ -92,6 +92,9 @@ h1{
         font-size: 60px;
 }
 
-.play{
-    margin-top: 60px;
+.games{
+    margin-left: px;
+    height: 600px;
+    width: 600px;
+    border-radius: 300px;
 }
