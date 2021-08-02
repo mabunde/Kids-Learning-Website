@@ -8,3 +8,45 @@
 html{
     background-color: #000000;
 }
+.head {
+    text-align: center;
+
+}
+nav>ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+  
+}
+.arts{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    
+    
+}
+.one{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    padding: 30px;
+    
+    
+    
+}
+.two{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    padding: 30px;
+    
+
+}
+.three{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    padding: 30px;
+    
+}
