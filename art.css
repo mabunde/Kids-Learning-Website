@@ -1,0 +1,10 @@
+.name {
+    width: 80%;
+    height: 100%;
+    background-color: white;
+    margin: auto;
+    border-radius: 10px;
+}
+html{
+    background-color: #000000;
+}
