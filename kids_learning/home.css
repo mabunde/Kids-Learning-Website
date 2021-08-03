@@ -154,3 +154,8 @@ img {
     text-align: center;
     color: white;
 }
+
+.icon {
+    height: 20px;
+    width: 20px;
+}
