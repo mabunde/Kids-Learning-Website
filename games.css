@@ -104,8 +104,9 @@ h1{
 
 footer{
     background: rgba(21, 20, 20, 0.84);
-    margin: 9px;
+    margin: 3px;
     border-radius: 9px;
+
 }
 .footer{
     justify-content: space-between;
@@ -116,5 +117,16 @@ footer{
 .column2{
     text-align: center;
     margin-top: -100px;
+    margin-left: 70px;
 
+}
+.icon{
+    height: 15px;
+    width: 15px;
+    float: right;
+    margin-right: 60px;
+    
+}
+.copy{
+    text-align: center;
 }
