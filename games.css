@@ -5,7 +5,7 @@ html{
 .main{
     width: 80%;
     height: 100%;
-    margin: auto;
+   margin: auto;
     background-color: #C4C4C4;
 }
 h1{
@@ -49,40 +49,36 @@ h1{
         margin-right: -17px;
         
     }
-    .menu{
-        padding-top: 1em;
-        width: 100%;
-        align-items: center;
-    }
-    
-    .menu ul{
-      display: flex;
-      flex-direction: row;
-    }
+   .wrap{
+       display: flex;
+       justify-self: center;
+       align-items: center;
+       
+   }
+   .menu{
+       padding: 10px;
+       
+   }
+   .menu li {
+       display: inline;
+       padding: 40px;
+   }
+   .btn{
+       display: inline;
+       font-size: 16px;
+       padding: 5px;
+       border-radius: 20px;
+       width: 100px;
+       height: 45px;
+       background-color: #073706;
+   }
+   .btn a{
+       color: #D29D14;
+       text-decoration: none;
+       padding: -50px;
+       padding-bottom: -50px;
      
-    .menu ul li{
-        display: flex;
-        flex-direction: row;
-    }
-    .menu ul li{
-        justify-content: space-between;
-    }
-    .menu ul li a{
-        display: inline;
-        justify-content: space-between;
-        padding-top: 0;
-        padding:0  40px;
-        
-    }
-    
-    .menu button{
-        width: 100px;
-        height: 30px;
-        border: none;
-        background: #063005;
-        border-radius: 50px;
-        color: #D29D14;
-    }
+   }
     
     .catch{
         background-color: #131212;
