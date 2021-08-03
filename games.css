@@ -91,6 +91,9 @@ h1{
         color: #18C7A7;
         font-size: 60px;
 }
+.row{
+    display: flex;
+}
 
 
 footer{
@@ -102,5 +105,5 @@ footer{
     display: flex;
 }
 .column2{
-    
+
 }
