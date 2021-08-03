@@ -101,7 +101,9 @@ html{
     border-radius: 50px;
     color: #D29D14;
 }
+
 /*    part 2 */
+
 .first{
     background: #1DD719;
     height: 200px;
@@ -148,8 +150,7 @@ text-align: center;
     width: 100%;
     padding-top: 5px;
     margin: auto;
-    position:relative;
-   
+    position:relative;  
     
 }
 .featur{
@@ -169,14 +170,13 @@ text-align: center;
     margin:auto;
     border-radius: 20px;
     display: flex;
-    flex-direction: row;
-    
+    flex-direction: row;  
 }
 
 .featvid img{
     padding: 1.5em;
     padding-bottom: 0;
-
+    
 }
 
 .featvid p{
