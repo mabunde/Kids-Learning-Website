@@ -209,7 +209,11 @@ text-align: center;
     border-radius: 50px;
     color: #D29D14;
 }
-
+.featvid button a{
+    text-decoration: none;
+    color: #D29D14;
+    font-weight: bold;
+}
 
 /* footer */
 
