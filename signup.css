@@ -27,7 +27,7 @@ html{
     opacity: 0.8;
     padding: 14px;
     border-radius: 8px;
-    box-shadow: 1px 0px 6px #18191b;
+    box-shadow: 1px 0px 6px #191d29;
     align-items: center;
     box-sizing: border-box;
     color: white;
@@ -53,8 +53,6 @@ html{
     color: white;
     height: 24;
 }
-
-
 
 .form{
     width: 400px;
