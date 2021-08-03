@@ -47,58 +47,70 @@ h1{
         text-decoration: none;
         color: black;
         margin-right: -17px;
+        
     }
-   
-    li{
-        display: inline;
-        padding: 55px;
-        color:#D29D14;
-        box-sizing: border-box;
-        margin: 30px 5px;
-        font-size: 20px;
-      
+    .menu{
+        padding-top: 1em;
+        width: 100%;
+        align-items: center;
     }
-    .bar a{
-        color: #D29D14;
+    
+    .menu ul{
+      display: flex;
+      flex-direction: row;
+    }
      
-        text-decoration: none;
-
+    .menu ul li{
+        display: flex;
+        flex-direction: row;
     }
-    .button{
-        background-color: #073706;
-        border-radius: 30px;
-        width: 68px;
+    .menu ul li{
+        justify-content: space-between;
+    }
+    .menu ul li a{
+        display: inline;
+        justify-content: space-between;
+        padding-top: 0;
+        padding:0  40px;
+        
+    }
+    
+    .menu button{
+        width: 100px;
         height: 30px;
+        border: none;
+        background: #063005;
+        border-radius: 50px;
+        color: #D29D14;
     }
-    .butt{
-        width: 78px;
-        background-color: #073706;
-        border-radius: 30px;
-        height: 30px;
-    }
+    
     .catch{
         background-color: #131212;
+        margin: 13px;
+        border-radius: 30px;
     }
     .play{
        
-        margin-top: 100px;
-        margin-left: 20px;
+        margin-top: 30px;
+        margin-left: -10px;
         border-radius: 50px;
         background-color: #131212;
         height: 70px;
         width: 1000px;
         text-align: center;
         color: #18C7A7;
-        font-size: 60px;
+        font-size: 50px;
 }
 .row{
  display: inline-block;
     width: 30%;
     padding: 0.7em;
+    border-radius: 30px;
 }
 .row1{
     width: 30%;
     padding: 0.7em;
+    border-radius: 30px;
 }
 
 
