@@ -125,13 +125,15 @@ h3 {
     font-weight: 800;
 }
 
-.wrap {
+.wrapper {
     justify-content: space-between;
+    margin-left: 55px;
 }
 
 img {
     height: 220px;
     width: 220px;
+    border-radius: 10px;
 }
 
 .footer {
@@ -170,7 +172,7 @@ img {
 
 .end {
     margin-top: 15px;
-    margin-right: 20px;
+    margin-right: 50px;
 }
 
 .follow {
