@@ -79,6 +79,22 @@ button a:active {
     justify-content: space-between;
 }
 
+.mission {
+    background: white;
+    box-sizing: border-box;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    font-family: poppins;
+    font-weight: 500;
+    color: #468E0C;
+    margin-bottom: 20px;
+    letter-spacing: 3px;
+}
+
 .container {
     background: white;
     box-sizing: border-box;
@@ -91,6 +107,22 @@ button a:active {
     font-family: poppins;
     font-weight: 500;
     color: #468E0C;
+    letter-spacing: 1px;
+}
+
+.submit {
+    width: 80%;
+    margin: auto;
+    margin-left: 100px;
+    background-color: #D61E13;
+    margin-top: 20px;
+    height: 45px;
+}
+
+.submit p {
+    color: #FFFFFF;
+    font-family: poppins;
+    font-size: 15px;
 }
 
 .bottom {
