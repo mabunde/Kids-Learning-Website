@@ -92,3 +92,12 @@ h1{
         font-size: 60px;
 }
 
+
+footer{
+    background: rgba(21, 20, 20, 0.84);
+}
+.footer{
+    justify-content: space-between;
+    color: white;
+    display: flex;
+}
