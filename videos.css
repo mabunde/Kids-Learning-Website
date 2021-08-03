@@ -85,13 +85,14 @@ html{
 .menu ul li{
     justify-content: space-between;
 }
-.menu ul li a{
+.menu ul li {
     display: inline;
     justify-content: space-between;
     padding-top: 0;
-    padding:0  40px;
+    padding:0  50px;
     
 }
+
 
 .menu button{
     width: 100px;
@@ -99,8 +100,19 @@ html{
     border: none;
     background: #063005;
     border-radius: 50px;
-    color: #D29D14;
+   
 }
+
+.menu ul li a{
+    text-decoration: none;
+    color: #D29D14;
+    font-weight: bold;
+}
+
+
+
+
+
 /*    part 2 */
 .first{
     background: #1DD719;
