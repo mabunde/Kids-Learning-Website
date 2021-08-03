@@ -8,13 +8,27 @@ html{
    margin: auto;
     background-color: #C4C4C4;
 }
-h1{
-  text-align: center;
-}
-.logs{
+
+.log ul{
     text-align: right;
-    flex-direction: row;
+    float: right;
+    flex: 100px;
+   
+   
 }
+.log ul li{
+    text-align: right;
+    align-items: right;
+    justify-content: space-between;
+    list-style: none;
+    padding:0 1em;
+    
+}
+.h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
 .boxcontainer{
     margin: auto;
     margin-top: 0%;
