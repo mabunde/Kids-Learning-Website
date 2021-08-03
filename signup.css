@@ -119,7 +119,7 @@ html{
         padding: 10px;
         font-size: 16px;
         font-weight: bolder;
-        border:solid;
+        border:none;
         border-radius:50px;
         display: flex;
         align-items: center;
@@ -136,7 +136,7 @@ html{
     padding: 10px;
     font-size: 16px;
     font-weight: bolder;
-    border:solid;
+    border:none;
     border-radius:50px;
     display: flex;
     align-items: center;
