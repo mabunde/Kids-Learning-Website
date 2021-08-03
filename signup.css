@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+html{
+    margin: 0;
+    padding: 0;
+    background: #151414;
+    font-family: 'poppins';
+    box-sizing: border-box;
+}
+
+.container{
+    background: #C4C4C4;
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    border-radius: 10px; 
+    min-height: 1119px;
+}
+
+.wrapper{
+    margin:auto;
+    margin-top: 20px;
+    height: 300px;
+    position: relative;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+   
+}
+.logo{
+    background: #691111;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.logo p{
+    text-align: center;
+    position: inherit;
+}
+
+.nav .log ul{
+    display: flex;
+    flex-direction: row;
+   
+}
+.nav .log ul li{
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    padding:0 1em;
+}
+.sitename{
+  text-align: center;
+  padding-top: 0;
+  margin-top: 0;
+}
+/* Style the search box inside the navigation bar */
+   
+.inputbox input[type=text] {
+        padding: 10px;
+        padding-right: 20px;
+        border: none;
+        border-radius: 50px;
+        width: 70%;
+        background: #f1f1f1;
+      }
+
+.menu{
+    padding-top: 1em;
+    width: 100%;
+    align-items: center;
+}
+
+.menu ul{
+  display: flex;
+  flex-direction: row;
+}
+ 
+.menu ul li{
+    display: flex;
+    flex-direction: row;
+}
+.menu ul li{
+    justify-content: space-between;
+}
+.menu ul li a{
+    display: inline;
+    justify-content: space-between;
+    padding-top: 0;
+    padding:0  40px;
+    
+}
+
+.menu button{
+    width: 100px;
+    height: 30px;
+    border: none;
+    background: #063005;
+    border-radius: 50px;
+    color: #D29D14;
+}
+/*      form     */
+
+
+
+
+
+/* footer */
+
+
+.footer{
+    background: rgba(21, 20, 20, 0.84);
+    border-radius: 20px;
+}
+.footer .foot{
+   width: 90%;
+   margin: auto;
+   display: flex;
+   flex-direction: row;
+   color: white;
+   font-size: 10px;
+   align-items: center;
+}
+.footer .foot .footright{
+    align-items: flex-start;
+    width: 100%;
+}
+.footer .foot .footcenter{
+    padding-left: 40%;
+}
+
+
+.footer .foot .footicons{
+    padding-left: 40%;
+    padding-top: 30px;
+}
+.footer .foot .footicons ul li {
+    list-style: none;
+    padding-top: 2 ;
+    padding: 2px;
+}
+.footlast{
+    text-align: center;
+    justify-content: space-between;
+}
