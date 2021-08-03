@@ -13,7 +13,7 @@ html{
     height: 100%;
     margin: auto;
     border-radius: 10px; 
-    min-height: 1119px;
+    min-height: 1100px;
 }
 
 .wrapper{
@@ -148,7 +148,7 @@ html{
 
 .form{
     width: 400px;
-    height: 480px;
+    height: 500px;
 }
 
 #wrappertwo #div2 li {
@@ -206,7 +206,7 @@ html{
         width: 150px;
         margin: auto;
         margin-top: 15px;
-        background-color: #42b72a;
+        background-color: #063005;
         color: white;
         padding: 10px;
         font-size: 16px;
@@ -223,7 +223,7 @@ html{
     width: 150px;
     margin: auto;
     margin-top: 15px;
-    background-color: #42b72a;
+    background-color: #063005;
     color: white;
     padding: 10px;
     font-size: 16px;
@@ -254,6 +254,7 @@ html{
 .footer{
     background: rgba(21, 20, 20, 0.84);
     border-radius: 20px;
+    margin-top: 31px;
 }
 .footer .foot{
    width: 90%;
