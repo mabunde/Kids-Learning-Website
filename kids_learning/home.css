@@ -120,3 +120,37 @@ h3 {
     font-family: poppins;
     font-weight: 800;
 }
+
+.wrap {
+    justify-content: space-between;
+}
+
+img {
+    height: 220px;
+    width: 220px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: column;
+    background-color: #151414;
+    border-radius: 10px;
+    margin-top: 30px;
+    opacity: 90%;
+}
+
+.bottom li {
+    color: white;
+    text-decoration: none;
+}
+
+.copyright {
+    text-align: center;
+    color: white;
+}
