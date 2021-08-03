@@ -92,18 +92,29 @@ h1{
         font-size: 60px;
 }
 .row{
-    display: flex;
+ display: inline-block;
+    width: 30%;
+    padding: 0.7em;
+}
+.row1{
+    width: 30%;
+    padding: 0.7em;
 }
 
 
 footer{
     background: rgba(21, 20, 20, 0.84);
+    margin: 9px;
+    border-radius: 9px;
 }
 .footer{
     justify-content: space-between;
     color: white;
-    display: flex;
+  
+    margin-left: 60px;
 }
 .column2{
+    text-align: center;
+    margin-top: -100px;
 
 }
