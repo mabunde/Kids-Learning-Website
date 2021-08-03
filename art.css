@@ -1,7 +1,7 @@
 .name {
     width: 80%;
     height: 100%;
-    background-color: white;
+    background-color :#C4C4C4;
     margin: auto;
     border-radius: 10px;
 }
@@ -20,9 +20,20 @@ nav>ul {
     justify-content: space-evenly;
   
 }
+.nest{
+    margin-left: 90px;
+    border-radius: 10px;
+    background-color: rgb(220, 228, 255);
+}
 #header{
     text-align: center;
     font-size: large;
+    color:#D29D14 ;
+    background-color: #121010;
+    border-radius: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    
 }
 .arts{
     display: flex;
@@ -55,3 +66,93 @@ nav>ul {
     padding: 30px;
     
 }
+nav>ul>li{
+    box-shadow: #073706;
+    text-decoration: #D29D14;
+}
+.navbar li{
+    overflow: hidden;
+    display: inline;
+    padding: 40px;
+    font-size: 20px;
+
+}
+button a{
+    color: #D29D14;
+    text-decoration: none;
+}
+.navbar{
+    justify-content: space-between;
+}
+button{
+    display: inline;
+    background-color: #073706;
+    width: 100px;
+    border-radius: 15px;
+    height: 35px;
+}
+.search input[type=text]{
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    font-size: 17px;
+    width: 70%;
+    margin: auto;
+    border-radius: 50px;
+    color: #FEF2F2;
+    margin-left: 100px;
+}
+.logo{
+    width: 80px;
+    height: 80px;
+    margin-top: 15px;
+    margin-left: 5px;
+    border-radius: 10px;
+    color: #C4C4C4;
+}
+.login li{
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 7px 10px;
+    display: inline;
+}
+
+.login{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+}
+#footer{
+    opacity: 80%;
+    background-color:#000000 ;
+    border-radius: 10px;
+}
+#footer li {
+    color: white;
+    justify-content: space-evenly;
+}
+.privacy{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.img {
+    height: 15px;
+    width: 15px;
+}
+.copy p {
+    color: white;
+    text-align: center;
+}
+.image {
+    margin-right: 15px;
+    margin-top: 30px;
+    
+}
+
