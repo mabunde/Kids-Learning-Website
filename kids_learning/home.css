@@ -159,3 +159,21 @@ img {
     height: 20px;
     width: 20px;
 }
+
+.footer ul {
+    list-style: none;
+}
+
+.end {
+    margin-top: 15px;
+    margin-right: 20px;
+}
+
+.follow {
+    padding: 10px;
+    margin-left: -50px;
+}
+
+.blog {
+    padding: 10px;
+}
