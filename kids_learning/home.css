@@ -33,6 +33,10 @@ button a {
     text-decoration: none;
 }
 
+button a:active {
+    background-color: #1D1A1A;
+}
+
 .navbar {
     justify-content: space-between;
 }
