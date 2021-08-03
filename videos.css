@@ -148,9 +148,13 @@ text-align: center;
     border: none;
     background: #063005;
     border-radius: 50px;
-    color: #D29D14;
+    
 }
-
+.content .watch button a{
+    text-decoration: none;
+    color: #D29D14;
+    font-weight: bold;
+}
 
 /* featured videos section */
 .featured{
