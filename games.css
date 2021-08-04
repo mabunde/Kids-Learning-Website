@@ -8,6 +8,11 @@ html{
    margin: auto;
     background-color: #C4C4C4;
 }
+.logo img{
+    margin-top: 0;
+    height: 80px;
+    width: 80px;
+}
 
 .log ul{
     text-align: right;
