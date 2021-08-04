@@ -103,9 +103,9 @@ button{
     margin-left: 100px;
 }
 .logo{
-    width: 80px;
+    width: 180px;
     height: 80px;
-    margin-top: 15px;
+    margin-top: 0;
     margin-left: 5px;
     border-radius: 10px;
     color: #C4C4C4;
