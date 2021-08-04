@@ -9,14 +9,14 @@ body{
     font-family: sans-serif;
 }
 .form{
-    width: 500px;
+    width: 600px;
     background: rgb(71, 58, 58);
     margin: 12% auto;
     padding: 50px 0;
     color: #fff;
     border-bottom: 0 0 20px rgb(0,0,0,0.5);
     opacity: 0.8;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 h1{
     text-align: center;
