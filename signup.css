@@ -143,7 +143,10 @@ html{
         justify-content: center;
 
 }
-
+.btn1 a{
+    text-decoration: none;
+    color: white;
+}
 .btn2{
     width: 150px;
     margin: auto;
