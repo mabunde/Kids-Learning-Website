@@ -103,6 +103,10 @@ html{
        padding-bottom: -50px;
      
    }
+   .btn :hover{
+       color: #1D1A1A;
+
+   }
     
     .catch{
         background-color: #131212;
