@@ -54,7 +54,11 @@ h1{
 
     
 }
+<<<<<<< HEAD
 .submit ul {
+=======
+.submit ul li{
+>>>>>>> 75bceef2cc58de82967ad9d927f09fafd546b43e
     list-style: none;
 
 }

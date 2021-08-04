@@ -3,7 +3,7 @@
     height: 100%;
     background-color: #C4C4C4;
     margin: auto;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 html {
@@ -182,6 +182,12 @@ img {
     list-style: none;
 
 }
+<<<<<<< HEAD
+=======
+#navi{
+    margin-left: -5px;
+}
+>>>>>>> 75bceef2cc58de82967ad9d927f09fafd546b43e
 
 #navi {
     margin-left: 15px;
