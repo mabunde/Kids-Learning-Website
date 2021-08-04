@@ -42,12 +42,9 @@ button a:active {
 }
 
 .logo {
-    width: 80px;
+    margin-top: 0px;
     height: 80px;
-    margin-top: 2px;
-    margin-left: 5px;
-    border-radius: 10px;
-    color: #C4C4C4;
+    width: 180px;
 }
 
 .login li {
