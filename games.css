@@ -29,6 +29,10 @@ html{
     padding:0 1em;
     
 }
+.log ul li a{
+    text-decoration: none;
+    color: black;
+}
 .h1{
     text-align: center;
     margin-top: 50px;
