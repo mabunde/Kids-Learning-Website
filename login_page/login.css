@@ -44,3 +44,17 @@ h1{
     height: 80px;
     margin-top: 0;
 }
+.submit {
+    background: rgb(35, 196, 35);
+    
+    border-radius: 10px;
+    width: 70px;
+    height: 25px;
+
+
+    
+}
+.submit ul li{
+    list-style: none;
+
+}
