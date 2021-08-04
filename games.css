@@ -94,6 +94,7 @@ html{
        width: 100px;
        height: 45px;
        background-color: #073706;
+       border: none;
    }
    .btn a{
        color: #D29D14;
