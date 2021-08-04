@@ -9,6 +9,23 @@ html{
     background-size: cover;
 }
 
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+   
+}
+.logo img{
+    margin-top: 0;
+    height: 80px;
+    width: 180px;
+}
+
+
+
+
+
+
 /*      form     */
 
 .containertwo{

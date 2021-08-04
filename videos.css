@@ -29,11 +29,10 @@ html{
     justify-content:space-between;
    
 }
-.logo{
-    background: #691111;
-    height: 100px;
-    width: 100px;
-    border-radius: 50%;
+.logo img{
+    margin-top: 0;
+    height: 80px;
+    width: 180px;
 }
 .logo p{
     text-align: center;
