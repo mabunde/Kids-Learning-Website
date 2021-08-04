@@ -25,7 +25,8 @@ button {
     background-color: #073706;
     width: 100px;
     border-radius: 15px;
-    height: 35px;
+    height: 45px;
+    border: none;
 }
 
 button a {
@@ -42,12 +43,9 @@ button a:active {
 }
 
 .logo {
-    width: 80px;
+    width: 180px;
     height: 80px;
-    margin-top: 2px;
-    margin-left: 5px;
-    border-radius: 10px;
-    color: #C4C4C4;
+    margin: 0;
 }
 
 .login li {
@@ -66,7 +64,7 @@ button a:active {
     width: 70%;
     margin: auto;
     border-radius: 50px;
-    color: #FEF2F2;
+    color: #000000;
 }
 
 .home {
@@ -110,13 +108,26 @@ h3 {
     margin-left: 100px;
     background-color: #D61E13;
     margin-top: 20px;
-    height: 45px;
+    height: 55px;
+}
+
+.us {
+    width: 50%;
+    margin: auto;
+    background-color: #073706;
+    margin-top: 20px;
+    height: 55px;
+    margin-left: 300px;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
 }
 
 .submit p {
     color: #FFFFFF;
     font-family: poppins;
-    font-size: 15px;
+    font-size: 20px;
+    text-align: center;
 }
 
 .levels {
