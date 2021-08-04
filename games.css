@@ -7,13 +7,13 @@ html{
     height: 100%;
    margin: auto;
     background-color: #C4C4C4;
+    border-radius: 10px;
 }
-.logo img{
+.log img{
     margin-top: 0;
     height: 80px;
-    width: 80px;
+    width: 180px;
 }
-
 .log ul{
     text-align: right;
     float: right;
