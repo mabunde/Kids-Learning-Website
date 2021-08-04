@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(imag/background.jpeg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.form{
+    width: 500px;
+    background: rgb(71, 58, 58);
+    margin: 12% auto;
+    padding: 50px 0;
+    color: #fff;
+    border-bottom: 0 0 20px rgb(0,0,0,0.5);
+    opacity: 0.8;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.input-box{
+    margin: 31px;
+    width: 80%;
+    border-bottom: 1px solid #fff;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.input-box input{
+    width: 90%;
+    outline: none;
+    border: none;
+    background: transparent;
+    color: #fff;
+}
+::placeholder{
+    color: #ccc;
+}
+.logkids{
+    width: 180px;
+    height: 80px;
+    margin-top: 0;
+}
+.submit {
+    background: rgb(35, 196, 35);
+    
+    border-radius: 10px;
+    width: 70px;
+    height: 25px;
+
+
+    
+}
+.submit ul {
+    list-style: none;
+
+}
