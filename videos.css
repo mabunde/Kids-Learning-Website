@@ -91,7 +91,11 @@ html{
 .menu ul li{
     justify-content: space-between;
 }
+<<<<<<< HEAD
 .menu ul li {
+=======
+.menu ul li{
+>>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
     display: inline;
     justify-content: space-between;
     padding-top: 0;
@@ -99,13 +103,14 @@ html{
     
 }
 
-.menu button{
+.menu button {
     width: 100px;
-    height: 30px;
+    height: 45px;
     border: none;
     background: #063005;
     border-radius: 50px;
    
+<<<<<<< HEAD
 }
 
 .menu ul li a{
@@ -117,8 +122,18 @@ html{
 
 
 
+=======
+}
+.menu button a{
+    color:#D29D14;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+>>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
 
 /*    part 2 */
+
 .first{
     background: #1DD719;
     height: 200px;
@@ -156,9 +171,15 @@ text-align: center;
     border-radius: 50px;
     
 }
+<<<<<<< HEAD
 .content .watch button a{
     text-decoration: none;
     color: #D29D14;
+=======
+.watch button a{
+    color: #D29D14;
+    text-decoration: none;
+>>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
     font-weight: bold;
 }
 
@@ -169,8 +190,7 @@ text-align: center;
     width: 100%;
     padding-top: 5px;
     margin: auto;
-    position:relative;
-   
+    position:relative;  
     
 }
 .featur{
@@ -190,14 +210,13 @@ text-align: center;
     margin:auto;
     border-radius: 20px;
     display: flex;
-    flex-direction: row;
-    
+    flex-direction: row;  
 }
 
 .featvid img{
     padding: 1.5em;
     padding-bottom: 0;
-
+    
 }
 
 .featvid p{
@@ -220,6 +239,11 @@ text-align: center;
     color: #D29D14;
     font-weight: bold;
 }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
 
 /* footer */
 
