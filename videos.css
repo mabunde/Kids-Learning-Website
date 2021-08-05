@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-html{
+html {
     margin: 0;
     padding: 0;
     background: #151414;
@@ -7,100 +7,100 @@ html{
     box-sizing: border-box;
 }
 
-.container{
+.container {
     background: #C4C4C4;
     width: 80%;
     height: 100%;
     margin: auto;
-    border-radius: 10px; 
+    border-radius: 10px;
     min-height: 1119px;
 }
 
-.wrapper{
-    margin:auto;
+.wrapper {
+    margin: auto;
     margin-top: 20px;
     height: 300px;
     position: relative;
 }
 
-.nav{
+.nav {
     display: flex;
     flex-direction: row;
-    justify-content:space-between;
-   
+    justify-content: space-between;
 }
-.logo img{
+
+.logo img {
     margin-top: 0;
     height: 80px;
     width: 180px;
 }
-.logo p{
+
+.logo p {
     text-align: center;
     position: inherit;
 }
 
-.nav .log ul{
+.nav .log ul {
     display: flex;
     flex-direction: row;
-   
 }
-.nav .log ul li{
+
+.nav .log ul li {
     text-align: center;
     align-items: center;
     justify-content: space-between;
     list-style: none;
-    padding:0 1em;
+    padding: 0 1em;
 }
 
-.nav .log ul li a{
+.nav .log ul li a {
     text-decoration: none;
     color: black;
 }
 
-
-.sitename{
-  text-align: center;
-  padding-top: 0;
-  margin-top: 0;
+.sitename {
+    text-align: center;
+    padding-top: 0;
+    margin-top: 0;
 }
+
+
 /* Style the search box inside the navigation bar */
-   
+
 .inputbox input[type=text] {
-        padding: 10px;
-        padding-right: 20px;
-        border: none;
-        border-radius: 50px;
-        width: 70%;
-        background: #f1f1f1;
-      }
-.menu{
+    padding: 10px;
+    padding-right: 20px;
+    border: none;
+    border-radius: 50px;
+    width: 70%;
+    background: #f1f1f1;
+}
+
+.menu {
     padding-top: 1em;
     width: 100%;
     align-items: center;
 }
 
-.menu ul{
-  display: flex;
-  flex-direction: row;
-}
- 
-.menu ul li{
+.menu ul {
     display: flex;
     flex-direction: row;
 }
-.menu ul li{
+
+.menu ul li {
+    display: flex;
+    flex-direction: row;
+}
+
+.menu ul li {
     justify-content: space-between;
 }
-<<<<<<< HEAD
+
 .menu ul li {
-=======
-.menu ul li{
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
     display: inline;
     justify-content: space-between;
     padding-top: 0;
-    padding:0  50px;
-    
+    padding: 0 50px;
 }
 
 .menu button {
@@ -109,124 +109,109 @@ html{
     border: none;
     background: #063005;
     border-radius: 50px;
-   
-<<<<<<< HEAD
 }
 
-.menu ul li a{
+.menu ul li a {
     text-decoration: none;
     color: #D29D14;
     font-weight: bold;
 }
 
 
-
-
-=======
-}
-.menu button a{
-    color:#D29D14;
-    text-decoration: none;
-    font-weight: bold;
-
-}
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
-
 /*    part 2 */
 
-.first{
+.first {
     background: #1DD719;
     height: 200px;
     width: 90%;
-    margin:auto;
+    margin: auto;
     border-radius: 20px;
     display: flex;
     flex-direction: row;
-    position:relative;
+    position: relative;
 }
-.first_one{
+
+.first_one {
     padding: 1.5em;
     height: 200;
     padding-left: 5em;
 }
-.first .content{
+
+.first .content {
     height: 200px;
     align-items: center;
 }
-.first .content h3{
-text-align: center;
+
+.first .content h3 {
+    text-align: center;
 }
-.first .content p{
-text-align: center;
+
+.first .content p {
+    text-align: center;
 }
-.content .watch{
+
+.content .watch {
     padding-left: 35%;
-   
 }
-.content .watch button{
+
+.content .watch button {
     width: 100px;
     height: 30px;
     border: none;
     background: #063005;
     border-radius: 50px;
-    
 }
-<<<<<<< HEAD
-.content .watch button a{
+
+.content .watch button a {
     text-decoration: none;
     color: #D29D14;
-=======
-.watch button a{
-    color: #D29D14;
-    text-decoration: none;
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
     font-weight: bold;
 }
 
+
 /* featured videos section */
-.featured{
+
+.featured {
     display: flex;
     flex-direction: row;
     width: 100%;
     padding-top: 5px;
     margin: auto;
-    position:relative;  
-    
+    position: relative;
 }
-.featur{
+
+.featur {
     padding: 2em;
     text-align: center;
     width: 100%;
-    
 }
-#para1{
+
+#para1 {
     color: white;
 }
 
-.featvid{
+.featvid {
     background: #1DD719;
     height: 300px;
     width: 250px;
-    margin:auto;
+    margin: auto;
     border-radius: 20px;
     display: flex;
-    flex-direction: row;  
+    flex-direction: row;
 }
 
-.featvid img{
+.featvid img {
     padding: 1.5em;
     padding-bottom: 0;
-    
 }
 
-.featvid p{
+.featvid p {
     text-transform: uppercase;
     font-weight: 700;
     padding: 2px;
-    
 }
 
-.featvid button{
+.featvid button {
     width: 100px;
     height: 30px;
     border: none;
@@ -234,52 +219,52 @@ text-align: center;
     border-radius: 50px;
     color: #D29D14;
 }
-.featvid button a{
+
+.featvid button a {
     text-decoration: none;
     color: #D29D14;
     font-weight: bold;
 }
-<<<<<<< HEAD
-=======
 
-
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
 
 /* footer */
 
-
-.footer{
+.footer {
     background: rgba(21, 20, 20, 0.84);
     border-radius: 20px;
 }
-.footer .foot{
-   width: 90%;
-   margin: auto;
-   display: flex;
-   flex-direction: row;
-   color: white;
-   font-size: 10px;
-   align-items: center;
+
+.footer .foot {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    font-size: 10px;
+    align-items: center;
 }
-.footer .foot .footright{
+
+.footer .foot .footright {
     align-items: flex-start;
     width: 100%;
 }
-.footer .foot .footcenter{
+
+.footer .foot .footcenter {
     padding-left: 40%;
 }
 
-
-.footer .foot .footicons{
+.footer .foot .footicons {
     padding-left: 40%;
     padding-top: 30px;
 }
+
 .footer .foot .footicons ul li {
     list-style: none;
-    padding-top: 2 ;
+    padding-top: 2;
     padding: 2px;
 }
-.footlast{
+
+.footlast {
     text-align: center;
     justify-content: space-between;
 }
