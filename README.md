@@ -30,7 +30,7 @@ GIT
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 
 ### Live Site
-Go to  [live]
+Go to  [live] https://mabunde.github.io/Kids-Learning-Website/
 
 ### Licence
 This project is under the  [MIT](LICENSE) licence:<br>
