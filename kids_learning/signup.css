@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+html{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins';
+    box-sizing: border-box;
+    background-image: url(Assets/signupbackgroundimage.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+   
+}
+.logo img{
+    margin-top: 0;
+    height: 80px;
+    width: 180px;
+}
+
+
+
+
+
+
+/*      form     */
+
+.containertwo{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+#wrappertwo{
+    height:495px;
+    width: 432px;
+    background-color: rgb(71, 58, 58);
+    opacity: 0.8;
+    padding: 14px;
+    border-radius: 8px;
+    box-shadow: 1px 0px 6px #191d29;
+    align-items: center;
+    box-sizing: border-box;
+    color: white;
+}
+
+
+#wrappertwo #div2 {
+    margin-top: 10px;
+    width: 390px;
+    text-align: left;
+}
+
+
+#wrappertwo #div2 h1 {
+    margin: 0px;
+    font-size: 32px;
+    color: white;
+    line-height: 38px;
+}
+
+#wrappertwo #div2 p {
+    font-size: 15px;
+    color: white;
+    height: 24;
+}
+
+.form{
+    width: 400px;
+    height: 500px;
+}
+
+#wrappertwo #div2 li {
+    list-style-type: none;
+    margin-top: 5px;
+}
+
+#wrappertwo #div2 li #Firstname {
+    width: 45%;
+   margin-bottom: 10px;
+}
+
+#wrappertwo #div2 li #surname {
+    margin-left: 4%;
+    width: 45%;
+    margin-bottom: 10px;
+   
+}
+#wrappertwo #div2 li input[type="text"] {
+    width: 100%;
+    height: 30px;
+    border-radius: 50px;
+    padding-left: 10px;
+    border: none;
+    background:  #C4C4C4;
+    margin-bottom: 10px;
+    
+}
+ #wrappertwo #div2 li input[type="password"] {
+    width: 100%;
+    height: 30px;
+    border-radius: 50px;
+    padding-left: 10px;
+    border: none;
+    background:  #C4C4C4;
+}
+.dob
+{
+    font-size: 12px;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-top: 2px;
+}
+.dob li{
+  display: flex;
+  padding: 40px;
+  float: left;
+}
+
+#wrappertwo #div2 #terms {
+    font-size: 11px;
+}
+
+.btn1{
+        width: 150px;
+        margin: auto;
+        margin-top: 15px;
+        background-color: #063005;
+        color: white;
+        padding: 10px;
+        font-size: 16px;
+        font-weight: bolder;
+        border:none;
+        border-radius:50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+}
+.btn1 a{
+    text-decoration: none;
+    color: white;
+}
+.btn2{
+    width: 150px;
+    margin: auto;
+    margin-top: 15px;
+    background-color: #063005;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bolder;
+    border:none;
+    border-radius:50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#terms{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
