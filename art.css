@@ -13,7 +13,6 @@ html {
 .head {
     text-align: center;
     font-size: large;
-
 }
 
 nav>ul {
@@ -21,7 +20,6 @@ nav>ul {
     flex-direction: row;
     align-items: center;
     justify-content: space-evenly;
-
 }
 
 .nest {
@@ -38,15 +36,12 @@ nav>ul {
     border-radius: 20px;
     margin-left: 80px;
     margin-right: 80px;
-
 }
 
 .arts {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-
-
 }
 
 .one {
@@ -54,9 +49,6 @@ nav>ul {
     flex-direction: row;
     justify-content: space-evenly;
     padding: 30px;
-
-
-
 }
 
 .two {
@@ -64,8 +56,6 @@ nav>ul {
     flex-direction: row;
     justify-content: space-evenly;
     padding: 30px;
-
-
 }
 
 .three {
@@ -73,7 +63,6 @@ nav>ul {
     flex-direction: row;
     justify-content: space-evenly;
     padding: 30px;
-
 }
 
 nav>ul>li {
@@ -86,7 +75,6 @@ nav>ul>li {
     display: inline;
     padding: 40px;
     font-size: 20px;
-
 }
 
 button a {
@@ -103,7 +91,7 @@ button {
     background-color: #073706;
     width: 100px;
     border-radius: 15px;
-    height: 35px;
+    height: 45px;
 }
 
 .search input[type=text] {
@@ -175,20 +163,16 @@ img {
     margin-right: 15px;
     margin-top: 30px;
     list-style: none;
-
 }
 
 .privacy ul {
     list-style: none;
-
 }
-<<<<<<< HEAD
-=======
-#navi{
+
+<<<<<<< HEAD=======#navi {
     margin-left: -5px;
 }
->>>>>>> 75bceef2cc58de82967ad9d927f09fafd546b43e
 
-#navi {
+>>>>>>>75bceef2cc58de82967ad9d927f09fafd546b43e #navi {
     margin-left: 15px;
 }
