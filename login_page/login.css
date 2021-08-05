@@ -1,64 +1,64 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-body{
+
+body {
     background-image: url(imag/background.jpeg);
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
 }
-.form{
+
+.form {
     width: 500px;
     background: rgb(71, 58, 58);
     margin: 12% auto;
     padding: 50px 0;
     color: #fff;
-    border-bottom: 0 0 20px rgb(0,0,0,0.5);
+    border-bottom: 0 0 20px rgb(0, 0, 0, 0.5);
     opacity: 0.8;
     border-radius: 20px;
 }
-h1{
+
+h1 {
     text-align: center;
     margin-bottom: 40px;
 }
-.input-box{
+
+.input-box {
     margin: 31px;
     width: 80%;
     border-bottom: 1px solid #fff;
     padding-top: 10px;
     padding-bottom: 5px;
 }
-.input-box input{
+
+.input-box input {
     width: 90%;
     outline: none;
     border: none;
     background: transparent;
     color: #fff;
 }
-::placeholder{
+
+::placeholder {
     color: #ccc;
 }
-.logkids{
+
+.logkids {
     width: 180px;
     height: 80px;
     margin-top: 0;
 }
+
 .submit {
     background: rgb(35, 196, 35);
-    
     border-radius: 10px;
     width: 70px;
     height: 25px;
-
-
-    
 }
-<<<<<<< HEAD
-.submit ul {
-=======
-.submit ul li{
->>>>>>> 75bceef2cc58de82967ad9d927f09fafd546b43e
-    list-style: none;
 
+.submit ul li {
+    list-style: none;
 }
