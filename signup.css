@@ -1,31 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-<<<<<<< HEAD
 html {
-=======
-html{
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
     margin: 0;
     padding: 0;
     font-family: 'poppins';
     box-sizing: border-box;
-<<<<<<< HEAD
-    background-image: url('Assets/signupbackgroundimage.jpeg');
-=======
     background-image: url(Assets/signupbackgroundimage.jpeg);
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-<<<<<<< HEAD
-.nav {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-
-.logo img {
-=======
 .nav{
     display: flex;
     flex-direction: row;
@@ -33,18 +16,12 @@ html{
    
 }
 .logo img{
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
     margin-top: 0;
     height: 80px;
     width: 180px;
 }
 
 
-<<<<<<< HEAD
-/*      form     */
-
-.containertwo {
-=======
 
 
 
@@ -52,7 +29,6 @@ html{
 /*      form     */
 
 .containertwo{
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
     width: 100%;
     height: 100vh;
     display: flex;
@@ -61,13 +37,8 @@ html{
     color: white;
 }
 
-<<<<<<< HEAD
-#wrappertwo {
-    height: 495px;
-=======
 #wrappertwo{
     height:495px;
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
     width: 432px;
     background-color: rgb(71, 58, 58);
     opacity: 0.8;
@@ -79,20 +50,12 @@ html{
     color: white;
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
 #wrappertwo #div2 {
     margin-top: 10px;
     width: 390px;
     text-align: left;
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
 #wrappertwo #div2 h1 {
     margin: 0px;
     font-size: 32px;
@@ -106,11 +69,7 @@ html{
     height: 24;
 }
 
-<<<<<<< HEAD
-.form {
-=======
 .form{
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
     width: 400px;
     height: 500px;
 }
@@ -122,106 +81,50 @@ html{
 
 #wrappertwo #div2 li #Firstname {
     width: 45%;
-<<<<<<< HEAD
-    margin-bottom: 10px;
-=======
    margin-bottom: 10px;
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
 }
 
 #wrappertwo #div2 li #surname {
     margin-left: 4%;
     width: 45%;
     margin-bottom: 10px;
-<<<<<<< HEAD
-}
-
-=======
    
 }
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
 #wrappertwo #div2 li input[type="text"] {
     width: 100%;
     height: 30px;
     border-radius: 50px;
     padding-left: 10px;
     border: none;
-<<<<<<< HEAD
-    background: #C4C4C4;
-    margin-bottom: 10px;
-}
-
-#wrappertwo #div2 li input[type="password"] {
-=======
     background:  #C4C4C4;
     margin-bottom: 10px;
     
 }
  #wrappertwo #div2 li input[type="password"] {
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
     width: 100%;
     height: 30px;
     border-radius: 50px;
     padding-left: 10px;
     border: none;
-<<<<<<< HEAD
-    background: #C4C4C4;
-}
-
-.dob {
-=======
     background:  #C4C4C4;
 }
 .dob
 {
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
     font-size: 12px;
     font-weight: normal;
     margin-bottom: 0;
     margin-top: 2px;
 }
-<<<<<<< HEAD
-
-.dob li {
-    display: flex;
-    padding: 40px;
-    float: left;
-=======
 .dob li{
   display: flex;
   padding: 40px;
   float: left;
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
 }
 
 #wrappertwo #div2 #terms {
     font-size: 11px;
 }
 
-<<<<<<< HEAD
-.btn1 {
-    width: 150px;
-    margin: auto;
-    margin-top: 15px;
-    background-color: #063005;
-    color: white;
-    padding: 10px;
-    font-size: 16px;
-    font-weight: bolder;
-    border: none;
-    border-radius: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.btn1 a {
-    text-decoration: none;
-    color: white;
-}
-
-.btn2 {
-=======
 .btn1{
         width: 150px;
         margin: auto;
@@ -243,7 +146,6 @@ html{
     color: white;
 }
 .btn2{
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
     width: 150px;
     margin: auto;
     margin-top: 15px;
@@ -252,18 +154,6 @@ html{
     padding: 10px;
     font-size: 16px;
     font-weight: bolder;
-<<<<<<< HEAD
-    border: none;
-    border-radius: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-#terms {
-    text-align: center;
-}
-=======
     border:none;
     border-radius:50px;
     display: flex;
@@ -284,4 +174,3 @@ html{
 
 
 
->>>>>>> ab4dbcdb8079bfee7865633c72c11f0fe592cff8
